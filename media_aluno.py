@@ -11,7 +11,7 @@ nota2 = float(input("Digite a segunda nota: "))
 # A media vai receber a nota1 mais a nota2 e dividir em 2 e guardar o resultado.
 media = (nota1 + nota2) / 2
 
-print(meida, "Média")
+print(media, "Média")
 
 # o if vai verificar se a media é maior ou igual a 7.
 if media >= 7:
