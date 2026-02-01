@@ -10,7 +10,7 @@ Este repositório contém exercícios e desafios desenvolvidos em python com foc
 - Exercícios práticos (CodinGame)
 
 ##Objetivo
-Consolidar a base em programação e registrar a evolução práticaem python, com foco em oportunidades em desenvolvedor júniorou trainee
+Consolidar a base em programação e registrar a evolução práticaem python, com foco em oportunidades em desenvolvedor júnior ou trainee
 
 ##Status
 Em desnvolvimento
