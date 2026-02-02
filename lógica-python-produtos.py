@@ -22,7 +22,7 @@ quantidade = int(input("Quantos produtos deseja cadastrar? "))
 total = 0 
 produtos_mais_100 = 0
 
-for i range(quantidade):
+for i in range(quantidade):
     nome = input("Nome do produto: ")
     preco = float(input("preço do produto: "))
 
@@ -31,6 +31,6 @@ for i range(quantidade):
     if preco > 100:
       produtos_mais_100 += 1
 
-print("\mResumo da compra")
+print("\nResumo da compra")
 print("Total gasto: R$", total)
 print("Produtos acima de R$100:", produtos_mais_100)
